@@ -1,0 +1,11 @@
+easyocr==1.6.2
+matplotlib==3.5.2
+numpy==1.21.5
+numpy==1.23.5
+opencv_python==4.7.0.72
+pandas==1.4.4
+pytesseract==0.3.10
+scipy==1.9.1
+tensorflow==2.12.0
+tensorflow_intel==2.12.0
+~pencv_python_headless==4.5.4.60

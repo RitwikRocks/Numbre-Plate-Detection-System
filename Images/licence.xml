@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>N (7).jpeg</filename>
+	<path>E:\NUMBER_PLATE_DETECTION_USING_YOLO\YOLO-5\Images\N (7).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>769</width>
+		<height>417</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>298</xmin>
+			<ymin>263</ymin>
+			<xmax>486</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>
